@@ -1,0 +1,3 @@
+hellp world
+this file is for copy one file data into another
+hello how r you ?

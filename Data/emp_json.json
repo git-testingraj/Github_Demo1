@@ -1,0 +1,27 @@
+[
+    {
+        "empID":101,
+        "EmpName":"Akash",
+        "Salary":2000
+    },
+    {
+        "empID":102,
+        "EmpName":"Naresh",
+        "Salary":3000
+    },
+    {
+        "empID":103,
+        "EmpName":"Suresh",
+        "Salary":4000
+    },
+    {
+        "empID":104,
+        "EmpName":"Nikhil",
+        "Salary":5000
+    },
+    {
+        "empID":105,
+        "EmpName":"Akhil",
+        "Salary":2012
+    }
+]
